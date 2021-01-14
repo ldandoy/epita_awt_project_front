@@ -1,0 +1,7 @@
+.TodoList .table {
+  width: 100%;
+}
+  
+.TodoList td, .TodoList th {
+  border: 1px solid navy;
+}
